@@ -1,2 +1,4 @@
-# 1.CardReader
-Contains all the code required for the card reader to interface with the RPi
+# CardReader
+This reposititory contains all of the files for the project. Try to make sure that you keep any changes to code updated on to here.
+
+Any non code files can also be added in suitable sub-Repositorys.
